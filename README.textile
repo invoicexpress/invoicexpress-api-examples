@@ -1,0 +1,18 @@
+h1. Invoicexpress API Examples
+
+On this project you should find examples in:
+- php
+- python (wip)
+- ruby
+
+The objective of this is only to help users with our API. 
+
+To contact us, send an email to:
+<pre>
+  support (at) invoicexpress (dot) com
+</pre>
+
+As always please find the most updated documentation on:
+<pre>
+  http://en.invoicexpress.com/api/
+</pre>
